@@ -1,11 +1,11 @@
 {
-    "name": "Conflictura",
-    "preductname": "Conflictura Launcher",
-    "version": "2.3.1",
-    "description": "Conflictura modded server launcher",
+    "name": "Nemex",
+    "preductname": "Nemex Launcher",
+    "version": "1.0.0",
+    "description": "Nemex launcher pvp faction moddé",
     "main": "src/app.js",
-    "author": "Luuxis/Riptiaz",
-    "settings": "https://launcher.conflictura.site",
+    "author": "Snowz/Luuxis/Riptiaz",
+    "settings": "https://nemex-launcher.wstr.fr/",
     "engines": {
         "node": "16.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Riptiaz/CentralCorp-Launcher.git"
+        "url": "git+https://github.com/ImSnowZ/Nemex-Launcher.git"
     }
 }
